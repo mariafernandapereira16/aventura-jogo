@@ -1,6 +1,6 @@
 body {
-    background-color: #17461c;
-    color: black;
+    background-color: #14492c;
+    color: rgb(40, 3, 43);
     font-family: "Embed code", sans-serif;
     display: flex;
     justify-content: center;
@@ -10,8 +10,8 @@ body {
 }
 
 button {
-    background-color: white;
-    color: white;
+    background-color: rgb(154, 199, 103);
+    color: rgb(40, 3, 43);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
